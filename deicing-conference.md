@@ -12,6 +12,7 @@ The conference was well attended, leading to plans of future conferences in the 
 
 - [Free Road Salt Conference to be held in Burlington - VTdigger.org](https://vtdigger.org/2017/09/07/free-road-salt-conference-held-burlington/)
 - [Road Salt and Deicing Event to Take Place at UVM - University of Vermont](https://www.uvm.edu/newsstories/news/road-salt-and-deicing-event-take-place-uvm)
+- [Champlain Watershed Road Salt Deicing Conference Planned - Adirondack Almanack](https://www.adirondackalmanack.com/2017/09/road-salt-deicing-conference-planned.html)
 - [2017 Lake Champlain Deicing Conference homepage](https://lcwroadsalt.wixsite.com/conference)
 - [Recorded Conference talks](https://lcwroadsalt.wixsite.com/conference/2017-conference)
 
