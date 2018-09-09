@@ -2,7 +2,7 @@
 
 ![Deicing Conference](/assets/deicing-conference.jpg)
 
-In 2017, UVM hosted the first [Lake Champlain Deicing Conference](https://lcwroadsalt.wixsite.com/conference) for municipal workers and private companies to learn about winter best management practices, including techniques to reduce environmental impacts of road salt.
+In 2017, UVM hosted the first [Lake Champlain Deicing Conference](https://lcwroadsalt.wixsite.com/conference){:target="_blank"} for municipal workers and private companies to learn about winter best management practices, including techniques to reduce environmental impacts of road salt.
 
 I assisted in the planning and coordination of the conference, including speaker scheduling and organization, gathering feedback, and documenting presentations.
 
@@ -10,11 +10,11 @@ The conference was well attended, leading to plans of future conferences in the 
 
 ## Learn more
 
-- [Free Road Salt Conference to be held in Burlington - VTdigger.org](https://vtdigger.org/2017/09/07/free-road-salt-conference-held-burlington/)
-- [Road Salt and Deicing Event to Take Place at UVM - University of Vermont](https://www.uvm.edu/newsstories/news/road-salt-and-deicing-event-take-place-uvm)
-- [Champlain Watershed Road Salt Deicing Conference Planned - Adirondack Almanack](https://www.adirondackalmanack.com/2017/09/road-salt-deicing-conference-planned.html)
-- [2017 Lake Champlain Deicing Conference homepage](https://lcwroadsalt.wixsite.com/conference)
-- [Recorded Conference talks](https://lcwroadsalt.wixsite.com/conference/2017-conference)
+- [Free Road Salt Conference to be held in Burlington - VTdigger.org](https://vtdigger.org/2017/09/07/free-road-salt-conference-held-burlington/){:target="_blank"}
+- [Road Salt and Deicing Event to Take Place at UVM - University of Vermont](https://www.uvm.edu/newsstories/news/road-salt-and-deicing-event-take-place-uvm){:target="_blank"}
+- [Champlain Watershed Road Salt Deicing Conference Planned - Adirondack Almanack](https://www.adirondackalmanack.com/2017/09/road-salt-deicing-conference-planned.html){:target="_blank"}
+- [2017 Lake Champlain Deicing Conference homepage](https://lcwroadsalt.wixsite.com/conference){:target="_blank"}
+- [Recorded Conference talks](https://lcwroadsalt.wixsite.com/conference/2017-conference){:target="_blank"}
 
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/work';">
     <div class="card-container">
