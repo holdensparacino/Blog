@@ -17,10 +17,10 @@
     <p>Online open-access database created for volunteer monitors</p>
   </div>
 </div>
-<div class="card" id="card-blog" style="cursor: pointer;" onClick="window.open('https://medium.com/@holdensparacino/latest', '_blank')">
+<div class="card" id="card-thesis" style="cursor: pointer;" onClick="window.location='/thesis.html';">
     <div class="card-container">
-    <h2>Latest Blog Post</h2>
-    <p>Writing about my research, travels, and ongoing projects</p>
+    <h2>Thesis Research</h2>
+    <p>An ongoing study of snow removal companies in VT and NY</p>
   </div>
 </div>
 <h3 class="featured-text"><a href="/work">More projects</a></h3>

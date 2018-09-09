@@ -5,7 +5,7 @@ title: About this site and site usage
 
 ## About this site
 
-This site was built by me as a place to keep my projects organized, and as a self-taught coder, for me to continue to learn.
+This site was built by me as a place to keep my projects organized, and as a self-taught coder, for me to continue to learn web design.
 
 ## Site Usage
 

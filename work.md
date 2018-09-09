@@ -11,11 +11,11 @@ description: Projects, publications, and presentations on community-based scienc
     <p>Summit for snow removal professionals on best practices</p>
       </div>
 </div>
-<div class="card" id="card-netherlands" style="cursor: pointer;" onClick="window.location='/netherlands.html';">
+<div class="card" id="card-thesis" style="cursor: pointer;" onClick="window.location='/thesis.html';">
     <div class="card-container">
-    <h2>NL Travel Course</h2>
-    <p>Water management class in the Netherlands</p>
-      </div>
+    <h2>Thesis Research</h2>
+    <p>An ongoing study of snow removal companies in VT and NY</p>
+  </div>
 </div>
 <h3 class="featured-text">As a research student, I investigate the practices of private snow removal companies throughout the Lake Champlain basin</h3>
 - Research winter maintenance practices used by private contractors throughout the Lake Champlain region, using quantitative and qualitative data collection.
@@ -63,8 +63,8 @@ description: Projects, publications, and presentations on community-based scienc
 
 ## Design
 
-- [SnowStudy.org](https://snowstudy.org){:target="_blank"}. (2018). Lead editor.
-- [Travel Study Class Website: University of Vermont](http://blog.uvm.edu/netherlands/){:target="_blank"}. (2018). Lead editor.
+- [SnowStudy.org](/thesis.html). (2018). Lead editor.
+- [Travel Study Class Website: University of Vermont](/netherlands.html/). (2018). Lead editor.
 - [Stream of Consciousness: ALLARM](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1048&context=stream_of_consciousness){:target="_blank"}. (2017). Lead editor.
 - [Outreach Brochure: ALLARM](https://indd.adobe.com/view/9d0449b4-4428-4204-aaf4-e6faabf037d3){:target="_blank"}. (2016). Lead editor.
 - [Stream of Consciousness: ALLARM](http://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1001&amp;context=stream_of_consciousness){:target="_blank"}. (2016). Lead editor.
