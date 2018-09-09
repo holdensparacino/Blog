@@ -63,7 +63,7 @@ description: Projects, publications, and presentations on community-based scienc
 
 ## Design
 
-- [SnowStudy.org](/thesis.html). (2018). Lead editor.
+- [SnowStudy.org](https://snowstudy.org){:target="_blank"}. (2018). Lead editor.
 - [Netherlands Travel Study Class Website & Blog: University of Vermont](/netherlands.html). (2018). Lead editor.
 - [Stream of Consciousness: ALLARM](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1047&context=stream_of_consciousness){:target="_blank"}. (2017). Lead editor.
 - [Outreach Brochure: ALLARM](https://indd.adobe.com/view/9d0449b4-4428-4204-aaf4-e6faabf037d3){:target="_blank"}. (2016). Lead editor.
