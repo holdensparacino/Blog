@@ -13,7 +13,7 @@ description: Projects, publications, and presentations on community-based scienc
 </div>
 <div class="card" id="card-thesis" style="cursor: pointer;" onClick="window.location='/thesis.html';">
     <div class="card-container">
-    <h2>Thesis Research</h2>
+    <h2>UVM Thesis Research</h2>
     <p>An ongoing study of snow removal companies in VT and NY</p>
   </div>
 </div>
