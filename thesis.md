@@ -8,7 +8,7 @@ Many municipalities have adopted preventative measures (best management practice
 
 For my [thesis research at the University of Vermont](https://snowstudy.org){:target="_blank"} I am exploring the management practices of private contractors who maintain private roadways, driveways, commercial parking lots, and sidewalks. Through a mixed-methods analysis, the study seeks to identify the current practices of private contractors through quantitative survey data and use these findings to inform qualitative interviews to further explore the barriers and motivations of private contractors to adopt best management practices. 
 
-Study findings are already being applied towards reccomendations for community-based social marketing outreach and learning opportunities for contractors, such as informing the annual [Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/news/road-salt-and-deicing-conference){:target="_blank"}. Ultimately the study and recommendations aim to increase private contractors’ awareness of environmental and economic outcomes of their practices and lower barriers to adopting new, lower salt best management practices.
+Study findings are already being applied towards reccomendations for community-based social marketing outreach and learning opportunities for contractors, such as informing the annual [Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}. Ultimately the study and recommendations aim to increase private contractors’ awareness of environmental and economic outcomes of their practices and lower barriers to adopting new, lower salt best management practices.
 
 ## [SnowStudy.org](https://snowstudy.org)
 
@@ -17,7 +17,7 @@ I have created a page dedicated to research outcomes and resources, as well as a
 ## Learn more
 
 - [SnowStudy.org](https://snowstudy.org){:target="_blank"}
-- [2018 Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/news/road-salt-and-deicing-conference){:target="_blank"}
+- [2018 Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}
 
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/work';">
     <div class="card-container">
