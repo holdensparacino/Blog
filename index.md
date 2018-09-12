@@ -1,4 +1,4 @@
-<h3 class="featured-text">I research water quality impacts and work to engage communities in water resource decisions.</h3>
+<h3 class="featured-text">I research water quality impacts and work to engage communities in water resource decisions through science communication and increased participation.</h3>
    <div class="card" id="card-deicing-conference" style="cursor: pointer;" onClick="window.location='/deicing-conference.html';">
     <div class="card-container">
     <h2>Deicing Conference</h2>
