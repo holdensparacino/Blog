@@ -49,7 +49,7 @@ description: Projects, publications, and presentations on community-based scienc
 - Sparacino, H. (2017). [Launching a Regional Water Quality Database with CitSci.org](https://www.citsci.org/CWIS438/Websites/CitSci/BlogPost.php?ID=797){:target="_blank"}. *Citsci.org*.
 - Sparacino, H., Wylie, S. (2014). [Estimating the Volume and Weight of Waste Piles](https://i.publiclab.org/system/images/photos/000/006/719/original/GM_Forum_20140909_Estimating_Trash_Piles.pdf){:target="_blank"}. *Public Lab Journal of Environmental Research: The Grassroots Mapping Forum*.
 
-## Select Design and Science Communication Products
+## Select Design and Communication Products
 
 - [SnowStudy.org](https://snowstudy.org){:target="_blank"}. (2018). Lead editor.
 - [Netherlands Travel Study Class Website & Blog: University of Vermont](/netherlands.html). (2018). Lead editor.
