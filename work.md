@@ -23,9 +23,10 @@ description: Projects, publications, and presentations on community-based scienc
 - Collaborate with area partners towards the implementation of a regional winter maintenance conference for private contractors and municipalities.
 - Design and implement a regional survey to winter maintenance private contractors throughout the Lake Champlain region to assess current practices, management characteristics, and barriers to changing behaviors.
 - Interview private contractors on their management practices and ways to implement changes.
-- Assist professors in lectures, materials creation, and grading, including Ecology, Social Processes and the Environment, and Water Management and Sustainability in the Netherlands.
+- Assist professors in lectures, materials creation, and grading, including Ecology, Ecological Economics, Social Processes and the Environment, and Water Management and Sustainability in the Netherlands.
 <div class="line-break"></div>
-## Other Notable Projects
+
+## Notable Projects
 
 <div class="card" id="card-volmon" style="cursor: pointer;" onClick="window.location='/volmon.html';">
     <div class="card-container">
@@ -48,6 +49,14 @@ description: Projects, publications, and presentations on community-based scienc
 - Sparacino, H. (2017). [Launching a Regional Water Quality Database with CitSci.org](https://www.citsci.org/CWIS438/Websites/CitSci/BlogPost.php?ID=797){:target="_blank"}. *Citsci.org*.
 - Sparacino, H., Wylie, S. (2014). [Estimating the Volume and Weight of Waste Piles](https://i.publiclab.org/system/images/photos/000/006/719/original/GM_Forum_20140909_Estimating_Trash_Piles.pdf){:target="_blank"}. *Public Lab Journal of Environmental Research: The Grassroots Mapping Forum*.
 
+## Select Design and Science Communication Products
+
+- [SnowStudy.org](https://snowstudy.org){:target="_blank"}. (2018). Lead editor.
+- [Netherlands Travel Study Class Website & Blog: University of Vermont](/netherlands.html). (2018). Lead editor.
+- [Stream of Consciousness: ALLARM](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1047&context=stream_of_consciousness){:target="_blank"}. (2017). Lead editor.
+- [Outreach Brochure: ALLARM](https://indd.adobe.com/view/9d0449b4-4428-4204-aaf4-e6faabf037d3){:target="_blank"}. (2016). Lead editor.
+- [Stream of Consciousness: ALLARM](http://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1001&amp;context=stream_of_consciousness){:target="_blank"}. (2016). Lead editor.
+
 ## Presentations
 
 - **Sparacino, H.**, Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.uvm.edu/sites/default/files/media/Final_2018_Program.pdf#page=6){:target="_blank"}. *University of Vermont Student Research Conference*.
@@ -60,11 +69,3 @@ description: Projects, publications, and presentations on community-based scienc
 - Sparacino, H. (2016). [Creating an Effective Volunteer Monitoring Database - Data Management Techniques and Lessons Learned](https://drive.google.com/file/d/0BxXFDCUd9xxTNGlKek1KbWlWOWM/view?usp=sharing){:target="_blank"}. *National Water Quality Monitoring Conference*.
 - Monismith, J., **Sparacino, H.** (2016). [Shale Gas Monitoring Workshop](https://vcwq.files.wordpress.com/2015/08/holden-sparacino-allarm-shale-gas-presentation.pdf){:target="_blank"}. *Mid-Atlantic Volunteer Monitoring Conference*.
 - Sparacino, H. (2015). Volunteer Monitoring for Shale Gas Impacts. *Westminster College*.
-
-## Design
-
-- [SnowStudy.org](https://snowstudy.org){:target="_blank"}. (2018). Lead editor.
-- [Netherlands Travel Study Class Website & Blog: University of Vermont](/netherlands.html). (2018). Lead editor.
-- [Stream of Consciousness: ALLARM](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1047&context=stream_of_consciousness){:target="_blank"}. (2017). Lead editor.
-- [Outreach Brochure: ALLARM](https://indd.adobe.com/view/9d0449b4-4428-4204-aaf4-e6faabf037d3){:target="_blank"}. (2016). Lead editor.
-- [Stream of Consciousness: ALLARM](http://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1001&amp;context=stream_of_consciousness){:target="_blank"}. (2016). Lead editor.
