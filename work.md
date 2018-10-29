@@ -17,7 +17,7 @@ description: Projects, publications, and presentations on community-based scienc
     <p>An ongoing study of snow removal companies in VT and NY</p>
   </div>
 </div>
-<h3 class="featured-text">As a research student, I investigate the practices of private snow removal companies throughout the Lake Champlain basin</h3>
+<h3 class="featured-text">As a research assistant, I investigate the practices of private snow removal companies throughout the Lake Champlain basin</h3>
 - Research winter maintenance practices used by private contractors throughout the Lake Champlain region, using quantitative and qualitative data collection.
 - Create recommendations for implementing a social marketing campaign aimed at changing private contractors' management practices and reducing road salt usage in the Lake Champlain Basin.
 - Collaborate with area partners towards the implementation of a regional winter maintenance conference for private contractors and municipalities.
