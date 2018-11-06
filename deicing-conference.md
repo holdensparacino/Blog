@@ -2,11 +2,11 @@
 
 ![Deicing Conference](/assets/deicing-conference.jpg)
 
-In 2017, UVM hosted the first [Lake Champlain Deicing Conference](https://lcwroadsalt.wixsite.com/conference){:target="_blank"} for municipal workers and private companies to learn about winter best management practices, including techniques to reduce environmental impacts of road salt. Now, preparations are underway for the [2018 Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"}
+Over the last two years, UVM has hosted the [Lake Champlain Deicing Conference](https://www.uvm.edu/seagrant/deicing-conference){:target="_blank"} for municipal workers and private companies to learn about winter best management practices, including techniques to reduce environmental impacts of road salt. 
 
-I assisted in the planning and coordination of the conference, including speaker scheduling and organization, gathering feedback, and documenting presentations.
+I assisted in the planning and coordination of the conference, including speaker scheduling and organization, fundraising,gathering feedback, and documenting presentations.
 
-The conference was well attended, leading to plans of future conferences in the area in order to continue to engage with municipalities and private contractors on the environemental impacts of winter road maintenance on the Lake Champlain Basin and mitigation efforts.
+The conferences have been well attended, leading to plans of future conferences in the area in order to continue to engage with municipalities and private contractors on the environemental impacts of winter road maintenance on the Lake Champlain Basin and mitigation efforts.
 
 ## Learn more
 

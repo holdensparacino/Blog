@@ -64,6 +64,7 @@ description: Projects, publications, and presentations on community-based scienc
 
 ## Presentations
 
+- **Sparacino, H.**, Stepenuck, K. (2018). [Winter Road Maintenance: Identifying and Lowering Private Companies' Barriers to Adopting Best Management Practices](https://www.pscp.tv/w/1RDGlqebYMdJL){:target="_blank"}. *North American Lake Management Society International Symposium*. 
 - **Sparacino, H.**, Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.uvm.edu/sites/default/files/media/Final_2018_Program.pdf#page=6){:target="_blank"}. *University of Vermont Student Research Conference*.
 - **Sparacino, H.**, Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](http://www.lcbp.org/water-environment/data-monitoring/lake-champlain-research-conference/){:target="_blank"}. *Lake Champlain Research Conference*.
 - **Sparacino, H.**, Stepenuck, K. (2017). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.youtube.com/watch?v=F_WgywbjZYY){:target="_blank"}. *University of Vermont Graduate Research Symposium*.
