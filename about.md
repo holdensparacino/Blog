@@ -7,7 +7,7 @@ title: About
   </h1>
   </div>
 <div class="content-block">
-  <img src="/assets/profile.png" class="split-img">
+  <img src="/assets/profile.jpg" class="split-img">
   </div>
 
 I am a graduate research assistant at the University of Vermont, interested in connecting communities to decisions about their water resources. 
