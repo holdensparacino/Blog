@@ -5,9 +5,7 @@ description: Projects, publications, and presentations on community-based scienc
 ---
 ## Vermont Association of Conservation Districts
 
-### Water Quality Programs Manager
-
-### 2018-Present
+### Water Quality Programs Manager | 2018 - Present
 
 <div class="card" id="card-vacd" style="cursor: pointer;" onClick="window.location='/vacd.html';">
     <div class="card-container">
@@ -30,9 +28,7 @@ description: Projects, publications, and presentations on community-based scienc
 
 ## University of Vermont
 
-### Research Assistant
-
-### 2017-2018
+### Research Assistant | 2017 - 2019
 
 <div class="card" id="card-deicing-conference" style="cursor: pointer;" onClick="window.location='/deicing-conference.html';">
     <div class="card-container">
@@ -75,17 +71,13 @@ description: Projects, publications, and presentations on community-based scienc
 
 ## Education
 
-### M.S. Natural Resources
-
-University of Vermont, 2019
+### M.S. Natural Resources | University of Vermont | 2019
 
 - Concentration in Aquatic Ecology and Watershed Science
 - Thesis: [Characterizing The Management Practices And Decision-Making Processes Of Winter Maintenance Companies In The Lake Champlain Basin](https://scholarworks.uvm.edu/graddis/1040/){:target="_blank"}
 - Honors: Research & Teaching Assistantship, Rubenstein Outstanding Graduate Student Service Award
 
-### B.A. Sociology
-
-Northeastern University, 2014
+### B.A. Sociology | Northeastern University | 2014
 
 - Minor in Environmental Studies
 - Honors: Cum Laude, Dean’s List, Merit Scholarship for Academic Excellence

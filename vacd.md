@@ -2,9 +2,9 @@
 
 ![vacd](/assets/vacd.jpg)
 
-I work with Natural Resources Conservation Districts across the state of Vermont to develop and manage non-agricultural water quality projects as the Water Quality Programs Manager at the [Vermont Association of Conservation Districts (VACD)](https://vacd.org){:target="_blank"}. 
+I work with Natural Resources Conservation Districts across the state of Vermont to develop and manage non-agricultural water quality projects at the [Vermont Association of Conservation Districts (VACD)](https://vacd.org){:target="_blank"}. 
 
-In my role at [VACD](https://vacd.org){:target="_blank"}, I work to support water quality programs, develop new program and funding areas, and act as a connection between local priorities and state-wide networks. Some program areas include green stormwater infrastructure projects, river corridor restoration areas, and streamside buffer plantings.
+More specifically, I work to support water quality programs, develop new program and funding areas, and act as a connection between local priorities and state-wide networks. Some program areas include green stormwater infrastructure projects, river corridor restoration areas, and streamside buffer plantings.
 
 I'm excited to continue connecting local priorities and expertise to implement water quality programs through this work, and have been inspired with the on-the-ground work done by Vermont's Conservation Districts!
 
