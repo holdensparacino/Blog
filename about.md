@@ -10,9 +10,9 @@ title: About
   <img src="/assets/profile.jpg" class="split-img">
   </div>
 
-I am a graduate research assistant at the University of Vermont, interested in connecting communities to decisions about their water resources. 
+I am a [Water Quality Programs Manager](/vacd) for the [Vermont Association of Conservation Districts](https://vacd.org). I work with Natural Resources Conservation Districts across the state to develop and manage non-agricultural water quality projects. 
 
-I work towards improved water quality decision-making, community-based research, and science communication outcomes. My [thesis work](/thesis) aims to understand the practices that winter maintenance and snow removal private contractors adopt, the areas serviced and materials and equipment involved, and how snow removal companies learn best management practices. Ultimately, a long-term outcome of this work is to form recommendations and resources for private contractors aiming to reduce their environmental impacts on surface waters.
+I work towards implementing local priority improving water quality decision-making, community-based research, and science communication outcomes. My [thesis work](/thesis) aims to understand the practices that winter maintenance and snow removal private contractors adopt, the areas serviced and materials and equipment involved, and how snow removal companies learn best management practices. Ultimately, a long-term outcome of this work is to form recommendations and resources for private contractors aiming to reduce their environmental impacts on surface waters.
 
 Outside of my research, I am passionate about getting people on bikes, getting myself outside and traveling, and the occasional DIY project. Originally from California, I left for the East Coast a decade ago and have been adjusting to the winters ever since.
 

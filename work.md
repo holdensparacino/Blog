@@ -3,7 +3,32 @@ layout: default
 title: Work
 description: Projects, publications, and presentations on community-based science, water quality, and science communication
 ---
+## Vermont Association of Conservation Districts
+
+### 2018-Present
+
+<div class="card" id="card-vacd" style="cursor: pointer;" onClick="window.location='/vacd.html';">
+    <div class="card-container">
+    <h2>Water Quality Programs</h2>
+    <p>A summary of my work at VACD</p>
+      </div>
+</div>
+<div class="card" id="card-vacd-site" style="cursor: pointer;" onClick="window.location='https://vacd.org';">
+    <div class="card-container">
+    <h2>VACD.org</h2>
+    <p>Conservation District projects and resources</p>
+  </div>
+</div>
+<h3 class="featured-text">I am the Water Quality Programs Manager at the Vermont Association of Conservation Districits, supporting ongoing projectsand developing new programs and funding sources</h3>
+- Develop, manage, and oversee statewide water quality programs including green stormwater projects, river corridor restoration projects, and streamside buffers.
+- Represent and act as a liason betwen the state of Vermont's 14 Conservation Districts and statewide partners.
+- Build capacity within the districts and support district staff through the development of relevant trainings and resources.
+- Communicate district accomplishments through web resources, VACD annual report, and to state-level partners.
+<div class="line-break"></div>
+
 ## University of Vermont
+
+### 2017-2018
 
 <div class="card" id="card-deicing-conference" style="cursor: pointer;" onClick="window.location='/deicing-conference.html';">
     <div class="card-container">
@@ -13,20 +38,19 @@ description: Projects, publications, and presentations on community-based scienc
 </div>
 <div class="card" id="card-thesis" style="cursor: pointer;" onClick="window.location='/thesis.html';">
     <div class="card-container">
-    <h2>UVM Thesis Research</h2>
-    <p>An ongoing study of snow removal companies in VT and NY</p>
+    <h2>M.Sc. Thesis</h2>
+    <p>A study of winter maintenance practices and impacts</p>
   </div>
 </div>
-<h3 class="featured-text">As a research assistant, I investigate the practices of private snow removal companies throughout the Lake Champlain basin</h3>
-- Research winter maintenance practices used by private contractors throughout the Lake Champlain region, using quantitative and qualitative data collection.
-- Create recommendations for implementing a social marketing campaign aimed at changing private contractors' management practices and reducing road salt usage in the Lake Champlain Basin.
-- Collaborate with area partners towards the implementation of a regional winter maintenance conference for private contractors and municipalities.
-- Design and implement a regional survey to winter maintenance private contractors throughout the Lake Champlain region to assess current practices, management characteristics, and barriers to changing behaviors.
-- Interview private contractors on their management practices and ways to implement changes.
-- Assist professors in lectures, materials creation, and grading, including Ecology, Ecological Economics, Social Processes and the Environment, and Water Management and Sustainability in the Netherlands.
+<h3 class="featured-text">For my graduate research, I investigated the practices of private snow removal companies throughout the Lake Champlain basin</h3>
+- [Researched winter maintenance practices](https://scholarworks.uvm.edu/graddis/1040/){:target="_blank"} used by private contractors throughout the Lake Champlain region, using quantitative and qualitative data collection.
+- Created recommendations for implementing a social marketing campaign aimed at changing private contractors' management practices and reducing road salt usage in the Lake Champlain Basin.
+- Collaborated with area partners towards the implementation of a regional winter maintenance conference for private contractors and municipalities.
 <div class="line-break"></div>
 
-## Notable Projects
+## Select Past Projects
+
+### 2015-2018
 
 <div class="card" id="card-volmon" style="cursor: pointer;" onClick="window.location='/volmon.html';">
     <div class="card-container">
@@ -40,39 +64,31 @@ description: Projects, publications, and presentations on community-based scienc
     <p>Online open-access database created for volunteer monitors</p>
      </div>
 </div>
-<h3 class="featured-text">I contribute to outreach by the USA Volunteer Monitoring Network, and have worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts</h3>
+<h3 class="featured-text">I contributed to outreach by the USA Volunteer Monitoring Network, and have worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts</h3>
 - Managed ALLARM's regional shale gas monitoring program across Pennsylvania, including training new volunteers on ALLARM's shale gas monitoring protocol, supporting current volunteers through community meetings and resources, and organizing volunteer data to increase usability and visibility.
-- Contribute to the USA Volunteer Monitoring Network’s online resources and social media outreach ([@volmonitor](https://twitter.com/volmonitor)), promote community conversations.
+- Contribute to the USA Volunteer Monitoring Network’s online resources and social media outreach ([@volmonitor](https://twitter.com/volmonitor){:target="_blank"}), promote community conversations.
 <div class="line-break"></div>
+
 ## Publications
 
+- Sparacino, H. (2019). [Characterizing The Management Practices And Decision-Making Processes Of Winter Maintenance Companies In The Lake Champlain Basin](https://scholarworks.uvm.edu/graddis/1040/){:target="_blank"}. *M.Sc. Thesis, University of Vermont*.
 - Sparacino, H. (2017). [Launching a Regional Water Quality Database with CitSci.org](https://www.citsci.org/CWIS438/Websites/CitSci/BlogPost.php?ID=797){:target="_blank"}. *Citsci.org*.
 - Sparacino, H., Wylie, S. (2014). [Estimating the Volume and Weight of Waste Piles](https://i.publiclab.org/system/images/photos/000/006/719/original/GM_Forum_20140909_Estimating_Trash_Piles.pdf){:target="_blank"}. *Public Lab Journal of Environmental Research: The Grassroots Mapping Forum*.
 
-## Select Design and Communication Products
+## Select Design & Communication Projects
 
-### Online
-
-- [SnowStudy.org](https://snowstudy.org){:target="_blank"}. (2018). Lead editor.
 - [Netherlands Travel Study Class Website & Blog: University of Vermont](/netherlands.html). (2018). Lead editor.
-
-### Print
-
 - [Stream of Consciousness: ALLARM](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1047&context=stream_of_consciousness){:target="_blank"}. (2017). Lead editor.
-- [Outreach Brochure: ALLARM](https://indd.adobe.com/view/9d0449b4-4428-4204-aaf4-e6faabf037d3){:target="_blank"}. (2016). Lead editor.
 - [Stream of Consciousness: ALLARM](http://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1001&amp;context=stream_of_consciousness){:target="_blank"}. (2016). Lead editor.
 
-## Presentations
+## Select Presentations
 
 - **Sparacino, H.**, Stepenuck, K. (2018). [Winter Road Maintenance: Identifying and Lowering Private Companies' Barriers to Adopting Best Management Practices](https://www.pscp.tv/w/1RDGlqebYMdJL){:target="_blank"}. *North American Lake Management Society International Symposium*. 
 - **Sparacino, H.**, Stepenuck, K. (2018). [Winter Maintenance Best Practices: How and Why Companies Use Low-Salt Practices](https://www.uvm.edu/seagrant/sites/default/files/uploads/SparacinoPresentation2018.10.10.pdf){:target="_blank"}. *Lake Champlain Deicing Conference*.
-- **Sparacino, H.**, Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.uvm.edu/sites/default/files/media/Final_2018_Program.pdf#page=6){:target="_blank"}. *University of Vermont Student Research Conference*.
 - **Sparacino, H.**, Stepenuck, K. (2018). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](http://www.lcbp.org/water-environment/data-monitoring/lake-champlain-research-conference/){:target="_blank"}. *Lake Champlain Research Conference*.
 - **Sparacino, H.**, Stepenuck, K. (2017). [Winter Maintenance Best Practices: Identifying and Lowering Private Contractors' Barriers to Adoption](https://www.youtube.com/watch?v=F_WgywbjZYY){:target="_blank"}. *University of Vermont Graduate Research Symposium*.
 - Sparacino, H. (2017). [Design to Implementation: Creating an Effective Volunteer Monitor Database](https://osf.io/hj7rp/){:target="_blank"}. *Citizen Science Association Conference*.
 - Sparacino, H. (2017). [Effectively Communicating Ecological Economics](http://www.uvm.edu/~jdericks/Conference-EE_Frontiers-3May17.pdf){:target="_blank"}. *Frontiers in Ecological Economics: University of Vermont*.
-- Sparacino, H. (2017). [Water, Fracking, and Community](https://drive.google.com/file/d/0BxXFDCUd9xxTc0VYX1cxYUpyeE0/view?usp=sharing){:target="_blank"}. *Water as a Natural Resource: University of Vermont*.
 - Sparacino, H. (2016). [Building and Supporting a Regional Monitoring Effort](https://drive.google.com/file/d/0BxXFDCUd9xxTWmVWZXRidElNa0E/view?usp=sharing){:target="_blank"}. *National Water Quality Monitoring Conference*.
 - Sparacino, H. (2016). [Creating an Effective Volunteer Monitoring Database - Data Management Techniques and Lessons Learned](https://drive.google.com/file/d/0BxXFDCUd9xxTNGlKek1KbWlWOWM/view?usp=sharing){:target="_blank"}. *National Water Quality Monitoring Conference*.
 - Monismith, J., **Sparacino, H.** (2016). [Shale Gas Monitoring Workshop](https://vcwq.files.wordpress.com/2015/08/holden-sparacino-allarm-shale-gas-presentation.pdf){:target="_blank"}. *Mid-Atlantic Volunteer Monitoring Conference*.
-- Sparacino, H. (2015). Volunteer Monitoring for Shale Gas Impacts. *Westminster College*.
