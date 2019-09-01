@@ -9,14 +9,14 @@ description: Projects, publications, and presentations on community-based scienc
 
 <div class="card" id="card-vacd" style="cursor: pointer;" onClick="window.location='/vacd.html';">
     <div class="card-container">
-    <h2>Water Quality Programs</h2>
-    <p>A summary of my work at VACD</p>
+    <h2>Program Management</h2>
+    <p>Statewide water quality programs at VACD</p>
       </div>
 </div>
 <div class="card" id="card-vacd-site" style="cursor: pointer;" onClick="window.location='https://vacd.org';">
     <div class="card-container">
     <h2>VACD.org</h2>
-    <p>Conservation District projects and resources</p>
+    <p>Projects and resources from Vermont's Conservation Districts</p>
   </div>
 </div>
 <h3 class="featured-text">I am the Water Quality Programs Manager at the Vermont Association of Conservation Districits, supporting ongoing projectsand developing new programs and funding sources</h3>

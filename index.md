@@ -2,7 +2,7 @@
 <div class="card" id="card-vacd" style="cursor: pointer;" onClick="window.location='/vacd.html';">
     <div class="card-container">
     <h2>VACD</h2>
-    <p>Water Quality Programs Manager</p>
+    <p>Summary of my work as Water Quality Programs Manager</p>
   </div>
 </div>
 <div class="card" id="card-deicing-conference" style="cursor: pointer;" onClick="window.location='/deicing-conference.html';">
