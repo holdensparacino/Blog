@@ -10,11 +10,13 @@ title: About
   <img src="/assets/profile.jpg" class="split-img">
   </div>
 
-I am a [Water Quality Programs Manager](/vacd) for the [Vermont Association of Conservation Districts](https://vacd.org). I work with Natural Resources Conservation Districts across the state to develop and manage non-agricultural water quality projects. 
+Hello! I'm Holden, I'm passionate about water quality, bikes, and science communication. 
 
-I work towards implementing local priority improving water quality decision-making, community-based research, and science communication outcomes. My [thesis work](/thesis) aims to understand the practices that winter maintenance and snow removal private contractors adopt, the areas serviced and materials and equipment involved, and how snow removal companies learn best management practices. Ultimately, a long-term outcome of this work is to form recommendations and resources for private contractors aiming to reduce their environmental impacts on surface waters.
+I work with Natural Resources Conservation Districts across the state of Vermont to develop and manage non-agricultural water quality projects as the [Water Quality Programs Manager](https://vacd.org) at the [Vermont Association of Conservation Districts](https://vacd.org). 
 
-Outside of my research, I am passionate about getting people on bikes, getting myself outside and traveling, and the occasional DIY project. Originally from California, I left for the East Coast a decade ago and have been adjusting to the winters ever since.
+In my role at [VACD](https://vacd.org), I work to support water quality programs, develop new program and funding areas, and act as a connection between local priorities and state-wide networks. Previously I worked at the [University of Vermont](/thesis) to understand the current practices and impacts of winter maintenance on surface water quality, and have worked on [volunteer monitoring](/volmon) and [community-based research](/shale-gas) projects in the past.
+
+Outside of my work, I am passionate about getting people on bikes, getting myself outside and traveling, and the occasional DIY project. Originally from California, I left for the East Coast a decade ago and have been adjusting to the winters ever since!
 
 Here you'll find a mixture of my ongoing projects and personal pursuits. Enjoy!
 

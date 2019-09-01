@@ -1,14 +1,14 @@
-<h3 class="featured-text">I research human impacts to water quality and work to engage communities in water resource decisions through increased participation.</h3>
-   <div class="card" id="card-deicing-conference" style="cursor: pointer;" onClick="window.location='/deicing-conference.html';">
+<h3 class="featured-text">I develop and manage water quality projects throughout Vermont in coordination with local partners.</h3>
+<div class="card" id="card-vacd" style="cursor: pointer;" onClick="window.location='/vacd.html';">
+    <div class="card-container">
+    <h2>VACD</h2>
+    <p>Water Quality Programs Manager</p>
+  </div>
+</div>
+<div class="card" id="card-deicing-conference" style="cursor: pointer;" onClick="window.location='/deicing-conference.html';">
     <div class="card-container">
     <h2>Deicing Conference</h2>
     <p>Summit for snow removal professionals on best practices</p>
-  </div>
-</div>
-<div class="card" id="card-thesis" style="cursor: pointer;" onClick="window.location='/thesis.html';">
-    <div class="card-container">
-    <h2>UVM Thesis Research</h2>
-    <p>An ongoing study of snow removal companies in VT and NY</p>
   </div>
 </div>
 <div class="card" id="card-volmon" style="cursor: pointer;" onClick="window.location='/volmon.html';">

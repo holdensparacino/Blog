@@ -2,9 +2,9 @@
 
 ![shale gas database](/assets/allarmwater.jpg)
 
-During my time at the [Alliance for Aquatic Resource Monitoring (ALLARM)](http://allarmwater.org), I directed the shale gas volunteer monitoring program, incuding outreach to community groups, running trainings, providing technical support to monitors, and [acting as the point person for the development and launch of ALLARM's shale gas database](https://www.citsci.org/CitSciBlog/797/Launching%20a%20Regional%20Water%20Quality%20Database%20with%20CitSci.org).
+Between 2015 and 2017, I worked at the [Alliance for Aquatic Resource Monitoring (ALLARM)](https://dickinson.edu/allarm). During my time at ALLARM, I directed the shale gas volunteer monitoring program, incuding outreach to community groups, running trainings, providing technical support to monitors, and acting as the point person for the development and launch of ALLARM's [shale gas database](http://allarmwater.org).
 
-ALLARM's shale gas program had been in existance for multiple years, created by ALLARM staff. When ALLARM won a small grant, a community-based science organization, CitSci, was contracted to develop a database for volunteers.
+ALLARM's shale gas program had been in existance for multiple years, created by ALLARM staff. Over the course of two years, myself and other ALLARM staff worked to develop and populate a state-wide database for volunteers.
 
 The database now houses historical data including thousands of observations across hundreds of sites, serves as a collection of resources for volunteer monitors interested in monitoring their streams for shale gas impacts, and allows volunteers to record new data, as well as interpret regional data in the form of graphs, descriptive statistics, and by downloading datasets.
 
