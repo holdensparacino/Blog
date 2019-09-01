@@ -5,12 +5,14 @@ description: Projects, publications, and presentations on community-based scienc
 ---
 ## Vermont Association of Conservation Districts
 
+### Water Quality Programs Manager
+
 ### 2018-Present
 
 <div class="card" id="card-vacd" style="cursor: pointer;" onClick="window.location='/vacd.html';">
     <div class="card-container">
     <h2>Program Management</h2>
-    <p>Statewide water quality programs at VACD</p>
+    <p>Statewide water quality programs management at VACD</p>
       </div>
 </div>
 <div class="card" id="card-vacd-site" style="cursor: pointer;" onClick="window.location='https://vacd.org';">
@@ -19,7 +21,7 @@ description: Projects, publications, and presentations on community-based scienc
     <p>Projects and resources from Vermont's Conservation Districts</p>
   </div>
 </div>
-<h3 class="featured-text">I am the Water Quality Programs Manager at the Vermont Association of Conservation Districits, supporting ongoing projectsand developing new programs and funding sources</h3>
+<h3 class="featured-text">I support ongoing projects to improve and protect water quality and work to develop new programs and funding sources</h3>
 - Develop, manage, and oversee statewide water quality programs including green stormwater projects, river corridor restoration projects, and streamside buffers.
 - Represent and act as a liason betwen the state of Vermont's 14 Conservation Districts and statewide partners.
 - Build capacity within the districts and support district staff through the development of relevant trainings and resources.
@@ -27,6 +29,8 @@ description: Projects, publications, and presentations on community-based scienc
 <div class="line-break"></div>
 
 ## University of Vermont
+
+### Research Assistant
 
 ### 2017-2018
 
@@ -69,9 +73,27 @@ description: Projects, publications, and presentations on community-based scienc
 - Contribute to the USA Volunteer Monitoring Network’s online resources and social media outreach ([@volmonitor](https://twitter.com/volmonitor){:target="_blank"}), promote community conversations.
 <div class="line-break"></div>
 
+## Education
+
+### M.S. Natural Resources
+
+University of Vermont, 2019
+
+- Concentration in Aquatic Ecology and Watershed Science
+- Thesis: [Characterizing The Management Practices And Decision-Making Processes Of Winter Maintenance Companies In The Lake Champlain Basin](https://scholarworks.uvm.edu/graddis/1040/){:target="_blank"}
+- Honors: Research & Teaching Assistantship, Rubenstein Outstanding Graduate Student Service Award
+
+### B.A. Sociology
+
+Northeastern University, 2014
+
+- Minor in Environmental Studies
+- Honors: Cum Laude, Dean’s List, Merit Scholarship for Academic Excellence
+<div class="line-break"></div>
+
 ## Publications
 
-- Sparacino, H. (2019). [Characterizing The Management Practices And Decision-Making Processes Of Winter Maintenance Companies In The Lake Champlain Basin](https://scholarworks.uvm.edu/graddis/1040/){:target="_blank"}. *M.Sc. Thesis, University of Vermont*.
+- Sparacino, H. (2019). [Characterizing The Management Practices And Decision-Making Processes Of Winter Maintenance Companies In The Lake Champlain Basin](https://scholarworks.uvm.edu/graddis/1040/){:target="_blank"}. *M.S. Thesis, University of Vermont*.
 - Sparacino, H. (2017). [Launching a Regional Water Quality Database with CitSci.org](https://www.citsci.org/CWIS438/Websites/CitSci/BlogPost.php?ID=797){:target="_blank"}. *Citsci.org*.
 - Sparacino, H., Wylie, S. (2014). [Estimating the Volume and Weight of Waste Piles](https://i.publiclab.org/system/images/photos/000/006/719/original/GM_Forum_20140909_Estimating_Trash_Piles.pdf){:target="_blank"}. *Public Lab Journal of Environmental Research: The Grassroots Mapping Forum*.
 
