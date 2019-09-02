@@ -3,7 +3,7 @@ layout: default
 title: Work
 description: Projects, publications, and presentations on community-based science, water quality, and science communication
 ---
-## Vermont Association of Conservation Districts
+## [Vermont Association of Conservation Districts](https://vacd.org)
 
 #### Water Quality Programs Manager <br/> 2018 - Present
 
