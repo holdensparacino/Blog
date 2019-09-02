@@ -5,7 +5,8 @@ description: Projects, publications, and presentations on community-based scienc
 ---
 ## Vermont Association of Conservation Districts
 
-#### Water Quality Programs Manager | 2018 - Present
+#### Water Quality Programs Manager  
+2018 - Present
 
 <div class="card" id="card-vacd" style="cursor: pointer;" onClick="window.location='/vacd.html';">
     <div class="card-container">
