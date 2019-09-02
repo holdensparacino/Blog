@@ -3,7 +3,7 @@ layout: default
 title: Work
 description: Projects, publications, and presentations on community-based science, water quality, and science communication
 ---
-## [Vermont Association of Conservation Districts](https://vacd.org)
+## [Vermont Association of Conservation Districts](https://vacd.org){:target="_blank"}
 
 #### Water Quality Programs Manager <br/> 2018 - Present
 
@@ -26,7 +26,7 @@ description: Projects, publications, and presentations on community-based scienc
 - Communicate district accomplishments through web resources, VACD annual report, and to state-level partners.
 <div class="line-break"></div>
 
-## University of Vermont
+## [University of Vermont](https://www.uvm.edu/rsenr){:target="_blank"}
 
 #### Research Assistant <br/> 2017 - 2019
 
@@ -45,7 +45,7 @@ description: Projects, publications, and presentations on community-based scienc
 <h3 class="featured-text">For my graduate research, I investigated the practices of private snow removal companies throughout the Lake Champlain basin. This work lead to recommendations for creating resources and changing private contractors' management practices towards reducing road salt usage.</h3>
 <div class="line-break"></div>
 
-## Alliance for Aquatic Resource Monitoring
+## [Alliance for Aquatic Resource Monitoring](https://www.dickinson.edu/allarm){:target="_blank"}
 
 #### Outreach Manager <br> 2015 - 2017
 

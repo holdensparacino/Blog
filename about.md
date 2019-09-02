@@ -12,7 +12,7 @@ title: About
 
 Hello! I'm Holden, I'm passionate about water quality, bikes, and science communication. I live in Burlington, Vermont and love to explore outside, enjoy new breakfast spots, and am always trying my hand at some unfamiliar DIY project. Originally from California, I left for the East Coast a decade ago and have been adjusting to the winters ever since!
 
-In my professional life I work with Natural Resources Conservation Districts across the state of Vermont to develop and manage non-agricultural water quality projects at the [Vermont Association of Conservation Districts](https://vacd.org). 
+In my professional life I work with Natural Resources Conservation Districts across the state of Vermont to develop and manage non-agricultural water quality projects at the [Vermont Association of Conservation Districts](https://vacd.org){:target="_blank"}. 
 
 More specifically, I work to support water quality programs, develop new program and funding areas, and act as a connection between local priorities and state-wide networks. Previously I worked at the [University of Vermont](/thesis) to understand the current practices and impacts of winter maintenance on surface water quality, and have worked on [volunteer monitoring](/volmon) and [community-based research](/shale-gas) projects in the past.
 
