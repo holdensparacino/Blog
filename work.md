@@ -49,12 +49,12 @@ description: Projects, publications, and presentations on community-based scienc
 
 #### Outreach Manager <br> 2015 - 2017
 
-</div>
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/shale-gas.html';">
     <div class="card-container">
     <h2>Shale Gas Database</h2>
     <p>Online open-access database created for volunteer monitors</p>
      </div>
+</div>
 <div class="card" id="card-volmon" style="cursor: pointer;" onClick="window.location='/volmon.html';">
     <div class="card-container">
     <h2>VolMon Network</h2>
