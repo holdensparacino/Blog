@@ -58,7 +58,7 @@ description: Projects, publications, and presentations on community-based scienc
 <div class="card" id="card-volmon" style="cursor: pointer;" onClick="window.location='/volmon.html';">
     <div class="card-container">
     <h2>VolMon Network</h2>
-    <p>Resource repository for water quality monitoring groups</p>
+    <p>Resource hub for community water quality monitoring groups</p>
       </div>
 </div>
 <h3 class="featured-text">I worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts and  contributed to outreach by the USA Volunteer Monitoring Network.</h3>
