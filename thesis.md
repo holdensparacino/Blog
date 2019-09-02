@@ -1,6 +1,6 @@
 ## University of Vermont Graduate Thesis
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/F_WgywbjZYY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![UVM Thesis](/assets/thesis.jpg)
 
 Between 2017-2018, I worked at the University of Vermont to explore the management practices of private contractors who maintain private roadways, driveways, commercial parking lots, and sidewalks. 
 

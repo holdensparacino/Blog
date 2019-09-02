@@ -1,8 +1,8 @@
-<h3 class="featured-text">I develop and manage water quality projects throughout Vermont in coordination with local partners.</h3>
+<h3 class="featured-text">I work with local partners to implement and develop projects that protect and improve water quality throughout Vermont.</h3>
 <div class="card" id="card-vacd" style="cursor: pointer;" onClick="window.location='/vacd.html';">
     <div class="card-container">
     <h2>VACD</h2>
-    <p>Summary of my work on statewide water quality programs</p>
+    <p>Summary of work on statewide water quality programs</p>
   </div>
 </div>
 <div class="card" id="card-deicing-conference" style="cursor: pointer;" onClick="window.location='/deicing-conference.html';">
