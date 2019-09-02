@@ -176,7 +176,7 @@ body {
 }
 
  h1, h2, h3, h4, h5, h6, .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-   color: var(--secondary-theme-color);
+   color: var(--text-color);
    padding-left: var(--content-spacing);
    padding-right: var(--content-spacing);
    padding-bottom: var(--content-spacing);
@@ -273,6 +273,10 @@ div.card-container {
   bottom: 0;
   width: 100%;
   }
+
+.card-container h2 {
+  color: var(--secondary-theme-color);
+}
 
 /*Responsive layout (card and about pages) */
 
