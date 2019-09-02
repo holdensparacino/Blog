@@ -28,7 +28,7 @@ description: Projects, publications, and presentations on community-based scienc
 
 ## University of Vermont
 
-#### Research Assistant | 2017 - 2019
+#### Research Assistant <br/> 2017 - 2019
 
 <div class="card" id="card-deicing-conference" style="cursor: pointer;" onClick="window.location='/deicing-conference.html';">
     <div class="card-container">
@@ -71,13 +71,13 @@ description: Projects, publications, and presentations on community-based scienc
 
 ## Education
 
-#### M.S. Natural Resources | University of Vermont | 2019
+#### M.S. Natural Resources <br/> University of Vermont | 2019
 
 - Concentration in Aquatic Ecology and Watershed Science
 - Thesis: [Characterizing The Management Practices And Decision-Making Processes Of Winter Maintenance Companies In The Lake Champlain Basin](https://scholarworks.uvm.edu/graddis/1040/){:target="_blank"}
 - Honors: Research & Teaching Assistantship, Rubenstein Outstanding Graduate Student Service Award
 
-#### B.A. Sociology | Northeastern University | 2014
+#### B.A. Sociology <br/> Northeastern University | 2014
 
 - Minor in Environmental Studies
 - Honors: Cum Laude, Dean’s List, Merit Scholarship for Academic Excellence
@@ -87,7 +87,7 @@ description: Projects, publications, and presentations on community-based scienc
 
 - Sparacino, H. (2019). [Characterizing The Management Practices And Decision-Making Processes Of Winter Maintenance Companies In The Lake Champlain Basin](https://scholarworks.uvm.edu/graddis/1040/){:target="_blank"}. *M.S. Thesis, University of Vermont*.
 - Sparacino, H. (2017). [Launching a Regional Water Quality Database with CitSci.org](https://www.citsci.org/CWIS438/Websites/CitSci/BlogPost.php?ID=797){:target="_blank"}. *Citsci.org*.
-- Sparacino, H., Wylie, S. (2014). [Estimating the Volume and Weight of Waste Piles](https://i.publiclab.org/system/images/photos/000/006/719/original/GM_Forum_20140909_Estimating_Trash_Piles.pdf){:target="_blank"}. *Public Lab Journal of Environmental Research: The Grassroots Mapping Forum*.
+- **Sparacino, H.**, Wylie, S. (2014). [Estimating the Volume and Weight of Waste Piles](https://i.publiclab.org/system/images/photos/000/006/719/original/GM_Forum_20140909_Estimating_Trash_Piles.pdf){:target="_blank"}. *Public Lab Journal of Environmental Research: The Grassroots Mapping Forum*.
 
 ## Select Design & Communication Projects
 
