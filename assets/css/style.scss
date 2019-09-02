@@ -176,11 +176,15 @@ body {
 }
 
  h1, h2, h3, h4, h5, h6, .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-   color: var(--secondary-theme-color);
+   color: var(--text-color);
    padding-left: var(--content-spacing);
    padding-right: var(--content-spacing);
    padding-bottom: var(--content-spacing);
    margin-top: 1rem;
+}
+
+.color h1, .color h2, .color h3, .color h4, .color h5, .color h6, {
+  color: var(--secondary-theme-color);
 }
 
 .project-name, .project-tagline {
