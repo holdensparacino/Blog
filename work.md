@@ -19,7 +19,7 @@ description: Projects, publications, and presentations on community-based scienc
     <p>Projects and resources from Vermont's Conservation Districts</p>
   </div>
 </div>
-<h3 class="featured-text">I work on programs to improve and protect water quality and work to develop new projects and funding sources</h3>
+<h3 class="featured-text">I work on programs to improve and protect water quality and work to develop new projects and funding sources.</h3>
 - Develop, manage, and oversee statewide water quality programs including green stormwater projects, river corridor restoration projects, and streamside buffers.
 - Represent and act as a liason betwen the state of Vermont's 14 Conservation Districts and statewide partners.
 - Build capacity within the districts and support district staff through the development of relevant trainings and resources.
@@ -42,31 +42,26 @@ description: Projects, publications, and presentations on community-based scienc
     <p>A study of winter maintenance practices and impacts</p>
   </div>
 </div>
-<h3 class="featured-text">For my graduate research, I investigated the practices of private snow removal companies throughout the Lake Champlain basin</h3>
-- [Researched winter maintenance practices](https://scholarworks.uvm.edu/graddis/1040/){:target="_blank"} used by private contractors throughout the Lake Champlain region, using quantitative and qualitative data collection.
-- Created recommendations for implementing a social marketing campaign aimed at changing private contractors' management practices and reducing road salt usage in the Lake Champlain Basin.
-- Collaborated with area partners towards the implementation of a regional winter maintenance conference for private contractors and municipalities.
+<h3 class="featured-text">For my graduate research, I investigated the practices of private snow removal companies throughout the Lake Champlain basin. This work lead to recommendations for creating resources and changing private contractors' management practices towards reducing road salt usage.</h3>
 <div class="line-break"></div>
 
-## Select Past Projects
+## Alliance for Aquatic Resource Monitoring
 
-#### 2015 - 2018
+#### Outreach Manager <br> 2015 - 2017
 
-<div class="card" id="card-volmon" style="cursor: pointer;" onClick="window.location='/volmon.html';">
-    <div class="card-container">
-    <h2>VolMon Network</h2>
-    <p>Resource repository for water quality monitoring groups</p>
-      </div>
 </div>
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/shale-gas.html';">
     <div class="card-container">
     <h2>Shale Gas Database</h2>
     <p>Online open-access database created for volunteer monitors</p>
      </div>
+<div class="card" id="card-volmon" style="cursor: pointer;" onClick="window.location='/volmon.html';">
+    <div class="card-container">
+    <h2>VolMon Network</h2>
+    <p>Resource repository for water quality monitoring groups</p>
+      </div>
 </div>
-<h3 class="featured-text">I contributed to outreach by the USA Volunteer Monitoring Network, and have worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts</h3>
-- Managed ALLARM's regional shale gas monitoring program across Pennsylvania, including training new volunteers on ALLARM's shale gas monitoring protocol, supporting current volunteers through community meetings and resources, and organizing volunteer data to increase usability and visibility.
-- Contribute to the USA Volunteer Monitoring Network’s online resources and social media outreach ([@volmonitor](https://twitter.com/volmonitor){:target="_blank"}), promote community conversations.
+<h3 class="featured-text">I worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts and  contributed to outreach by the USA Volunteer Monitoring Network.</h3>
 <div class="line-break"></div>
 
 ## Education
