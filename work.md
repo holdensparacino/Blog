@@ -19,7 +19,7 @@ description: Projects, publications, and presentations on community-based scienc
     <p>Projects and resources from Vermont's Conservation Districts</p>
   </div>
 </div>
-<h3 class="featured-text">I support ongoing projects to improve and protect water quality and work to develop new programs and funding sources</h3>
+<h3 class="featured-text">I work on programs to improve and protect water quality and work to develop new projects and funding sources</h3>
 - Develop, manage, and oversee statewide water quality programs including green stormwater projects, river corridor restoration projects, and streamside buffers.
 - Represent and act as a liason betwen the state of Vermont's 14 Conservation Districts and statewide partners.
 - Build capacity within the districts and support district staff through the development of relevant trainings and resources.
