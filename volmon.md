@@ -2,13 +2,11 @@
 
 ![Volunteer Monitoring Network](/assets/volmon.jpg)
 
-Since 2016, I have been a contributor to the [USA Volunteer Monitoring Newtwork](http://www.volunteermonitoring.org/)'s outreach efforts. 
+Between 2016-2018, I was a contributor to the [USA Volunteer Monitoring Newtwork](http://www.volunteermonitoring.org/)'s outreach efforts. 
 
 The Volunteer Monitoring Network exists to expand and strengthen the capacity of existing volunteer water monitoring programs and support development of new groups.
 
 This involves positing relevant resources and monitoring protocols on the website, as well as publicizing trainings, events, and open job positions on the organization's website and via [social media](https://twitter.com/volmonitor).
-
-Through my graduate work, I have enjoyed the continued connection with volunteers in this capacity, and am excited by the discussions the outreach creates.
 
 ## Learn more
 
