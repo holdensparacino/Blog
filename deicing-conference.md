@@ -20,12 +20,10 @@ The conferences have been well attended, leading to plans of future conferences 
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/work';">
     <div class="card-container">
     <h2>Other Projects</h2>
-    <p>Learn more about other current and past projects</p>
-  </div>
+    </div>
 </div>
 <div class="card" id="card-blog" style="cursor: pointer;" onClick="window.open('https://medium.com/@holdensparacino/latest', '_blank')">
     <div class="card-container">
     <h2>Latest Blog Post</h2>
-    <p>Writing about my research, travels, and ongoing work</p>
   </div>
 </div>

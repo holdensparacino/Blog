@@ -10,6 +10,7 @@ I'm excited to continue connecting local priorities and expertise to implement w
 
 ## Learn more
 
+- [Vermont Natural Resources Conservation Districts: 2019 Annual Report](https://www.vacd.org/wp-content/uploads/2020/03/2019-Annual-Report-for-web.pdf){:target="_blank"}
 - [VACD - Who We Are](https://www.vacd.org/about-vacd/){:target="_blank"}
 - [VACD - Conservation Districts](https://www.vacd.org/conservation-districts/){:target="_blank"}
 

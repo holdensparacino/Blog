@@ -10,13 +10,11 @@ description: Projects, publications, and presentations on community-based scienc
 <div class="card" id="card-vacd" style="cursor: pointer;" onClick="window.location='/vacd.html';">
     <div class="card-container">
     <h2>Program Management</h2>
-    <p>Statewide water quality programs management at VACD</p>
       </div>
 </div>
 <div class="card" id="card-vacd-site" style="cursor: pointer;" onClick="window.location='https://vacd.org';">
     <div class="card-container">
     <h2>VACD.org</h2>
-    <p>Projects and resources from Vermont's Conservation Districts</p>
   </div>
 </div>
 <h3 class="featured-text">I work on programs to improve and protect water quality and work to develop new projects and funding sources.</h3>
@@ -33,13 +31,11 @@ description: Projects, publications, and presentations on community-based scienc
 <div class="card" id="card-deicing-conference" style="cursor: pointer;" onClick="window.location='/deicing-conference.html';">
     <div class="card-container">
     <h2>Deicing Conference</h2>
-    <p>Summit for snow removal professionals on best practices</p>
       </div>
 </div>
 <div class="card" id="card-thesis" style="cursor: pointer;" onClick="window.location='/thesis.html';">
     <div class="card-container">
     <h2>M.S. Thesis</h2>
-    <p>A study of winter maintenance practices and impacts</p>
   </div>
 </div>
 <h3 class="featured-text">For my graduate research, I investigated the practices of private snow removal companies throughout the Lake Champlain basin. This work lead to recommendations for creating resources and changing private contractors' management practices towards reducing road salt usage.</h3>
@@ -52,13 +48,11 @@ description: Projects, publications, and presentations on community-based scienc
 <div class="card" id="card-allarmwater" style="cursor: pointer;" onClick="window.location='/shale-gas.html';">
     <div class="card-container">
     <h2>Shale Gas Database</h2>
-    <p>Online open-access database created for volunteer monitors</p>
      </div>
 </div>
 <div class="card" id="card-volmon" style="cursor: pointer;" onClick="window.location='/volmon.html';">
     <div class="card-container">
     <h2>VolMon Network</h2>
-    <p>Resource hub for community water quality monitoring groups</p>
       </div>
 </div>
 <h3 class="featured-text">I worked with volunteer groups in New York and Pennsylvania to monitor their local streams for shale gase development impacts and  contributed to outreach by the USA Volunteer Monitoring Network.</h3>
@@ -86,7 +80,7 @@ description: Projects, publications, and presentations on community-based scienc
 
 ## Select Design & Communication Projects
 
-- [Vermont Natural Resources Conservation Districts: 2019 Annual Report](https://www.vacd.org/wp-content/uploads/2020/03/2019-Annual-Report-for-web.pdf). (2020). Lead editor.
+- [Vermont Natural Resources Conservation Districts: 2019 Annual Report](https://www.vacd.org/wp-content/uploads/2020/03/2019-Annual-Report-for-web.pdf){:target="_blank"}. (2020). Lead editor.
 - [Netherlands Travel Study Class Website & Blog: University of Vermont](/netherlands.html). (2018). Lead editor.
 - [Stream of Consciousness: ALLARM](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1047&context=stream_of_consciousness){:target="_blank"}. (2017). Lead editor.
 - [Stream of Consciousness: ALLARM](http://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1001&amp;context=stream_of_consciousness){:target="_blank"}. (2016). Lead editor.
