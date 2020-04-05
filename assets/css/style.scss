@@ -181,7 +181,6 @@ body {
    padding-right: var(--content-spacing);
    padding-bottom: var(--content-spacing);
    margin-top: 1rem;
-   margin-bottom: 0rem;
 }
 
 .project-name, .project-tagline {
@@ -222,7 +221,6 @@ li {
   padding: 30px;
   max-width: 750px;
   margin: auto;
-  margin-bottom: 1rem;
 }
 
 .split-intro {
@@ -278,6 +276,7 @@ div.card-container {
 
 .card-container h2 {
   color: var(--secondary-theme-color);
+  margin-bottom: 0rem;
 }
 
 /*Responsive layout (card and about pages) */

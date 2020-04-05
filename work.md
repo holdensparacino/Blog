@@ -86,6 +86,7 @@ description: Projects, publications, and presentations on community-based scienc
 
 ## Select Design & Communication Projects
 
+- [Vermont Natural Resources Conservation Districts: 2019 Annual Report](https://www.vacd.org/wp-content/uploads/2020/03/2019-Annual-Report-for-web.pdf). (2020). Lead editor.
 - [Netherlands Travel Study Class Website & Blog: University of Vermont](/netherlands.html). (2018). Lead editor.
 - [Stream of Consciousness: ALLARM](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1047&context=stream_of_consciousness){:target="_blank"}. (2017). Lead editor.
 - [Stream of Consciousness: ALLARM](http://scholar.dickinson.edu/cgi/viewcontent.cgi?article=1001&amp;context=stream_of_consciousness){:target="_blank"}. (2016). Lead editor.
