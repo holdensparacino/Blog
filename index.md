@@ -1,4 +1,4 @@
-<h3 class="featured-text">I work with local partners to implement and develop projects that protect and improve water quality throughout Vermont.</h3>
+<h3 class="featured-text">I work with local partners to help implement and develop projects that protect and improve water quality throughout Vermont.</h3>
 <div class="card" id="card-vacd" style="cursor: pointer;" onClick="window.location='/vacd.html';">
     <div class="card-container">
     <h2 class="color">VACD</h2>
