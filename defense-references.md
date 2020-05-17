@@ -2,8 +2,8 @@
 ## University of Vermont, November 9, 2018
 ### References
 
-- Clear Roads Institute. (n.d.). Clear Roads National Winter Safety Campaign. Retrieved from http://clearroads.org/national-winter-safety-campaign/
-- Corsi, S. R., Graczyk, D. J., Geis, S. W., Booth, N. L., & Richards, K. D. (2010). A fresh look at road salt: Aquatic toxicity and water-quality impacts on local, regional, and national scales. Environmental Science and Technology, 44(19), 7376–7382. https://doi.org/10.1021/es101333u
+- Clear Roads Institute. (n.d.). Clear Roads National Winter Safety Campaign. Retrieved from [http://clearroads.org/national-winter-safety-campaign/]
+- Corsi, S. R., Graczyk, D. J., Geis, S. W., Booth, N. L., & Richards, K. D. (2010). A fresh look at road salt: Aquatic toxicity and water-quality impacts on local, regional, and national scales. Environmental Science and Technology, 44(19), 7376–7382. [https://doi.org/10.1021/es101333u]
 - Creswell, J. W., & Plano Clark, V. L. (2007). Designing and Conducting Mixed Methods Research. Thousand Oaks, CA: Sage Publications, Inc.
 - Dugan, H. A., Bartlett, S. L., Burke, S. M., Doubek, J. P., Krivak-Tetley, F. E., Skaff, N. K., … Weathers, K. C. (2017). Salting our freshwater lakes. Proceedings of the National Academy of Sciences, 114(17), 4453–4458. https://doi.org/10.1073/pnas.1620211114
 - Environment and Climate Change Canada. (2013). Success in Road Salts Management: Case Studies. Retrieved from https://www.canada.ca/en/environment-climate-change/services/pollutants/road-salts/success-management-case-studies.html
